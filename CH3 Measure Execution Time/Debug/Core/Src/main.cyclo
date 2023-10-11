@@ -1,0 +1,7 @@
+main.c:66:6:startTiming	1
+main.c:72:10:stopTiming	1
+main.c:76:7:calculateTimeMs	1
+main.c:87:5:main	2
+main.c:148:6:SystemClock_Config	3
+main.c:195:13:MX_GPIO_Init	1
+main.c:233:6:Error_Handler	1

@@ -1,0 +1,10 @@
+17:42:51 **** Incremental Build of configuration Debug for project CH3 Measure Execution Time ****
+make -j8 all 
+arm-none-eabi-size   CH3\ Measure\ Execution\ Time.elf 
+   text	   data	    bss	    dec	    hex	filename
+   6284	     36	   1588	   7908	   1ee4	CH3 Measure Execution Time.elf
+Finished building: default.size.stdout
+ 
+
+17:42:51 Build Finished. 0 errors, 0 warnings. (took 302ms)
+
