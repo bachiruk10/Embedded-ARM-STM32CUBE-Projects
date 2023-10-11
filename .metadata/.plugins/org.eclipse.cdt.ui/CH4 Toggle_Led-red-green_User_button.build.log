@@ -1,0 +1,10 @@
+11:36:43 **** Incremental Build of configuration Debug for project CH4 Toggle_Led-red-green_User_button ****
+make -j8 all 
+arm-none-eabi-size   CH4\ Toggle_Led-red-green_User_button.elf 
+   text	   data	    bss	    dec	    hex	filename
+   6168	     20	   1572	   7760	   1e50	CH4 Toggle_Led-red-green_User_button.elf
+Finished building: default.size.stdout
+ 
+
+11:36:44 Build Finished. 0 errors, 0 warnings. (took 321ms)
+

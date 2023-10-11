@@ -1,0 +1,10 @@
+12:24:53 **** Incremental Build of configuration Debug for project CH4 Toggle_Led-red-green_User_button_Counter ****
+make -j8 all 
+arm-none-eabi-size   CH4\ Toggle_Led-red-green_User_button_Counter.elf 
+   text	   data	    bss	    dec	    hex	filename
+   6188	     20	   1572	   7780	   1e64	CH4 Toggle_Led-red-green_User_button_Counter.elf
+Finished building: default.size.stdout
+ 
+
+12:24:53 Build Finished. 0 errors, 0 warnings. (took 313ms)
+
