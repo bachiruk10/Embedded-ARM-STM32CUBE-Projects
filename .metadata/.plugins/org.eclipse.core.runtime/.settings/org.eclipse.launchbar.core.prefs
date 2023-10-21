@@ -1,7 +1,7 @@
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
-configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:CH4 Toggle_Led-red-green_User_button Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:CH4 Toggle_Led-red-green_User_button_Counter Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:CH4 Toggle_Led-red-green_User_button_Switch_debouncing Debug
+configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:CH3 ITM Debug Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:CH5 Interrupt_GPIO_Priority Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:CH5 PWR Management Sleep Mode Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:CH5 PWR Management Standby Mode Debug
 eclipse.preferences.version=1
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:CH3\ ITM\ Debug\ Debug/activeLaunchMode=run
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:CH3\ ITM\ Debug\ Debug/activeLaunchTarget=null\:---
@@ -11,6 +11,8 @@ org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:CH3\ Measure\ Execution\ Time\ 
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:CH3\ Measure\ Execution\ Time\ Debug/activeLaunchTarget=null\:---
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:CH4\ Toggle_Led-red-green_User_button\ Debug/activeLaunchMode=debug
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:CH4\ Toggle_Led-red-green_User_button\ Debug/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:CH5\ Interrupt_GPIO_Priority\ Debug/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:CH5\ Interrupt_GPIO_Toggle_R_G_led\ Debug/activeLaunchMode=debug
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:LEDCntrl\ Debug/activeLaunchMode=debug
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:LEDCntrl\ Debug/activeLaunchTarget=null\:---
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Project1/activeLaunchMode=debug

@@ -1,0 +1,10 @@
+23:23:54 **** Incremental Build of configuration Debug for project CH5 Interrupt_GPIO_Priority ****
+make -j8 all 
+arm-none-eabi-size   CH5\ Interrupt_GPIO_Priority.elf 
+   text	   data	    bss	    dec	    hex	filename
+   6408	     20	   1580	   8008	   1f48	CH5 Interrupt_GPIO_Priority.elf
+Finished building: default.size.stdout
+ 
+
+23:23:55 Build Finished. 0 errors, 0 warnings. (took 317ms)
+
